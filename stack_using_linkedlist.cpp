@@ -1,4 +1,4 @@
-#include<iostream>
+ #include<iostream>
 #include<stdlib.h>
 using namespace std;
 class SULL
@@ -82,4 +82,5 @@ p=p->next;
 else
 cout<<"Stack is empty\n";
 }
+
 
